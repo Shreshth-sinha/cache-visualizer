@@ -18,4 +18,4 @@ Interactive FIFO vs LRU Cache Visualizer built using C++ and SFML.
 
 ## Screenshots
 
-![FIFO & LRU](fifo lru.png)
+![FIFO & LRU](fifo-lru.png)
